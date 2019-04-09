@@ -1,0 +1,6 @@
+<view class="my-container">
+  <text>本周推荐</text>
+  <image src="/images/tuijian.jpg"></image>
+  <text>罗小黑战记</text>
+  <text>点评：卖萌耍宝，居家必备</text>
+</view>
